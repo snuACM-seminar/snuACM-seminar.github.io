@@ -10,7 +10,8 @@ redirect_from:
 The SNU Applied and Computational Mathematics seminar brings together researchers to explore how mathematical tools can be used to solve real-world problems. The talks are delivered in a casual setting by both internal and external speakers, covering a variety of subjects like computational science, machine learning, and physical science. The goal is to provide a broad overview of topics that appeal to a diverse audience. 
 
 ## Announcement
-Please note that the seminar scheduled for May 1st has been delayed by 30 minutes. The time will be from 10:30AM to 12:00PM.(GMT+9, Korean standard time)
+Please note that the seminar scheduled for June 12th has been rescheduled to Monday, June 15th. <br>
+The time remains unchanged, from 10:30AM to 12:00PM(GMT+9, KST).
 
 ## Upcoming Seminar
 
