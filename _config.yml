@@ -296,7 +296,14 @@ defaults:
       layout: talk
       author_profile: false
       share: true
-
+  # _talks2
+  - scope:
+      path: ""
+      type: talks2
+    values:
+      layout: talk
+      author_profile: false
+      share: true
 
 # Sass/SCSS
 sass:
