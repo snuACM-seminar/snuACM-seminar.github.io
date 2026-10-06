@@ -13,6 +13,7 @@ The SNU Applied and Computational Mathematics seminar brings together researcher
 Sorry for the late update.<br>
 I hope you all had a great summer break and Chuseok holiday.<br>
 The first ACM seminar of Fall 2026 semester will be held on Thursday, October 8th at 11:00AM(GMT +9, KST).
+The venue is 27-220, Seoul National University.
 
 ## Upcoming Seminar
 
