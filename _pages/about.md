@@ -10,7 +10,9 @@ redirect_from:
 The SNU Applied and Computational Mathematics seminar brings together researchers to explore how mathematical tools can be used to solve real-world problems. The talks are delivered in a casual setting by both internal and external speakers, covering a variety of subjects like computational science, machine learning, and physical science. The goal is to provide a broad overview of topics that appeal to a diverse audience. 
 
 ## Announcement
-The ACM Seminar series will now take a break for the summer. We wish you a meaningful vacation and look forward to welcoming you back next semester!
+Sorry for the late update.
+I hope you all had a great summer break and Chuseok holiday.
+The first ACM seminar of Fall 2026 semester will be held on Thursday, October 8th at 11:00AM(GMT +9, KST).
 
 ## Upcoming Seminar
 
