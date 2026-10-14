@@ -18,7 +18,7 @@ The venue is 27-220, Seoul National University.
 ## Upcoming Seminar
 
 {% assign today = 'now' | date: '%s' %}
-{% assign upcoming_talks = site.talks | sort: 'date' %}
+{% assign upcoming_talks = site.talks2 | sort: 'date' %}
 {% assign has_upcoming = false %}
 
 {% for talk in upcoming_talks %}
