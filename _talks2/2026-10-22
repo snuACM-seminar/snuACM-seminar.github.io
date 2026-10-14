@@ -1,0 +1,18 @@
+---
+title:  Beyond Correlation: Statistical Foundations for Counterfactual Learning in Complex Geometries
+collection: talks2
+type: "Talk"
+permalink: /talks2/2026-10-22
+date: 2026-10-22
+venue: "27-220, Seoul National University"
+location: ""
+---
+
+- **Time** : 17:00 - 18:30 (GMT+9, KST) <br>
+- **Speaker** : 김광호 (Korea University) <br>
+
+Modern AI excels at learning statistical associations from large-scale observational data, but many important scientific and decision-making problems require reasoning about interventions and alternative conditions.
+This talk presents a statistical perspective on that gap through counterfactual learning. 
+I will first discuss how modern causal inference, including orthogonal and semiparametric methods, can provide robust causal signals, and then show why learning the geometry of complex data is a natural next step.
+Two complementary examples will be considered: geometry-adaptive conditional treatment effect learning using graph structure and Ollivier–Ricci curvature, and diffusion-guided learning of high-dimensional counterfactual distributions with valid statistical inference. 
+Together, these ideas point toward a broader framework that combines causal targets, adaptive geometry, and representation learning, with the longer-term goal of building AI systems that remain reliable under interventions, distribution shifts, and counterfactual scenarios.
